@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class SchneegassKayleeAssignment2 {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee
+		   Class: 
 		   Due: 2 FEB
 		   Description: Assignment 2
 		   The program will take user input for the road trip information and the details
