@@ -4,8 +4,8 @@ import java.util.Scanner;
 public class SchneegassKayleeAssignment3 {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee 
+		   Class: 
 		   Due: 9 FEB
 		   Description: Assignment 3
 		   The program is the receipt printing program for a Taco Shop. It takes user input for number of tacos and the filling wanted to
