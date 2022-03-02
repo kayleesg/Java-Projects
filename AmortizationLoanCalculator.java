@@ -1,11 +1,11 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeAssignment6 {
+public class AmortizationLoanCalculator {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee
+		   Class: 
 		   Due: 2 MAR
 		   Description: Assignment 6
 		   This program takes user input to calculate the Amortization schedule for the loan.
