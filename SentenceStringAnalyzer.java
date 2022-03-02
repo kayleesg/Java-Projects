@@ -1,11 +1,11 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeAssignment5 {
+public class SentenceStringAnalyzer {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee
+		   Class: 
 		   Due: 23 FEB
 		   Description: Assignment 5
 		   This program takes a sentence entered by the user and processes it, extracting each word and digesting the contents of each word.
