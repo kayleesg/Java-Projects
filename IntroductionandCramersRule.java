@@ -1,8 +1,8 @@
 
-public class SchneegassKayleeAssignment1 {
+public class IntroductionandCramersRule {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
+		/* Name: Kaylee
 		   Class: 
 		   Due: 26 JAN
 		   Description: Assignment 1
@@ -10,15 +10,8 @@ public class SchneegassKayleeAssignment1 {
 		   The program then provides a short demonstration on Cramer's Rule.
 		*/
 		
-		System.out.println("   Hello World! My name is Kaylee and I am a Computer Science Major with a focus in Cybersecurity.\n"
-				+ "I am 28 years old this year and I grew up in Cameron Park, California.\n"
-				+ "I went to two high schools in California. Both high schools didn't prepare me for college.\n"
-				+ "I first started college in 2012 at Montana State University in Bozeman, MT where I was undeclared.\n"
-				+ "After 1.5 years at MSU, I moved back to California where I joined the United States Army.\n");
-		System.out.println("   I served in the United States Army for 6 years working on satellite communications equipment.\n"
-				+ "I learned computer networking through my job and I can take those skills to enhance my education.\n"
-				+ "Working in the Army was very fulfilling for me because I was able to figure out what I wanted to do in life.\n"
-				+ "Now I work part-time so I can focus on my degree. I started my degree in 2012; it's about time I finish.\n"
+		System.out.println("   Hello World! My name is Kaylee and I am a Computer Science Major with a focus in Cybersecurity.\n");
+		System.out.println("   Now I work part-time so I can focus on my degree. I started my degree in 2012; it's about time I finish.\n"
 				+ "My future goals include:\n    1) Finishing my degree;\n    2) Contributing to Linux/Open-source community with code I make;\n"
 				+ "    3) Learn everything I can about cybersecurity.\n\n\n");
 		
