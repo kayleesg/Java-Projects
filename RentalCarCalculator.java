@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeAssignment2 {
+public class RentalCarCalculator {
 
 	public static void main(String[] args) {
 		/* Name: Kaylee
