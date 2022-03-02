@@ -1,11 +1,11 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeAssignment4 {
+public class FakeGiftCardGenerator {
 
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee 
+		   Class: 
 		   Due: 16 FEB
 		   Description: Assignment 4
 		   The program take a 2 character user input and generates gift cards. The first character represents the company the card is from, the second character represents
