@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeAssignment3 {
+public class TacoShopReceiptCalculator {
 
 	public static void main(String[] args) {
 		/* Name: Kaylee 
