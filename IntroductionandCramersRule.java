@@ -3,7 +3,7 @@ public class SchneegassKayleeAssignment1 {
 
 	public static void main(String[] args) {
 		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		   Class: 
 		   Due: 26 JAN
 		   Description: Assignment 1
 		   This code prints out 2 introductory paragraphs about me.
