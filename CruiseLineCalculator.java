@@ -1,11 +1,11 @@
 
 import java.util.Scanner;
 
-public class SchneegassKayleeQuiz1 {
+public class CruiseLineCalculator {
 	
 	public static void main(String[] args) {
-		/* Name: Kaylee Schneegass
-		   Class: CS1150 - Principles of Computer Science
+		/* Name: Kaylee
+		   Class: 
 		   Due: 21 FEB
 		   Description: Quiz 1
 		   This program will determine the price for a cruise.
